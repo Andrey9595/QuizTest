@@ -9,8 +9,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="60dp"
-        android:layout_height="14dp"
+        android:layout_width="260dp"
+        android:layout_height="64dp"
         android:layout_marginTop="196dp"
         android:gravity="center"
         android:text="TextView"
@@ -21,8 +21,8 @@
 
     <TextView
         android:id="@+id/word2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="36dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="80dp"
         android:background="@color/teal_200"
@@ -33,8 +33,8 @@
 
     <TextView
         android:id="@+id/word1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="36dp"
         android:layout_marginStart="80dp"
         android:layout_marginTop="32dp"
         android:background="@color/teal_200"
@@ -45,8 +45,8 @@
 
     <TextView
         android:id="@+id/word3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="36dp"
         android:layout_marginStart="80dp"
         android:layout_marginTop="32dp"
         android:text="Button"
@@ -59,8 +59,8 @@
 
     <TextView
         android:id="@+id/word4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="36dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="80dp"
         android:text="Button"
